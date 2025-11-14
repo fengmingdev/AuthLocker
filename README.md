@@ -129,4 +129,4 @@ LockUIFactory.present(
 - FaceID/TouchID 根据风险状态与时间漂移进行审慎处理
 
 ## 许可
-- 本项目当前未设置开源许可证。如需二次分发，请先补充许可证声明。
+- 本项目基于 MIT 许可证发布。详见 `LICENSE`。
